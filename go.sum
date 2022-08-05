@@ -1322,6 +1322,8 @@ github.com/spf13/viper v1.7.0/go.mod h1:8WkrPz2fc9jxqZNCJI/76HCieCp4Q8HaLFoCha5q
 github.com/spf13/viper v1.7.1/go.mod h1:8WkrPz2fc9jxqZNCJI/76HCieCp4Q8HaLFoCha5qpdg=
 github.com/spf13/viper v1.8.1/go.mod h1:o0Pch8wJ9BVSWGQMbra6iw0oQ5oktSIBaujf1rJH9Ns=
 github.com/spf13/viper v1.9.0/go.mod h1:+i6ajR7OX2XaiBkrcZJFK21htRk7eDeLg7+O6bhUPP4=
+github.com/srikarsganti/tink v0.0.0-20220803152337-fa9ddd386f31 h1:PGjikbyuL+cQDlZEwp+L3ArzN6IAYggiGRcsY+4Aie4=
+github.com/srikarsganti/tink v0.0.0-20220803152337-fa9ddd386f31/go.mod h1:px5E+SccP2xvZRnHHf8smb8vtKnroXXwx7lGg30igS8=
 github.com/ssgreg/nlreturn/v2 v2.1.0/go.mod h1:E/iiPB78hV7Szg2YfRgyIrk1AD6JVMTRkkxBiELzh2I=
 github.com/stefanberger/go-pkcs11uri v0.0.0-20201008174630-78d3cae3a980/go.mod h1:AO3tvPzVZ/ayst6UlUKUv6rcPQInYe3IknH3jYhAKu8=
 github.com/stmcginnis/gofish v0.12.1-0.20220311113027-6072260f4c8d/go.mod h1:BLDSFTp8pDlf/xDbLZa+F7f7eW0E/CHCboggsu8CznI=
@@ -1357,8 +1359,6 @@ github.com/timakin/bodyclose v0.0.0-20200424151742-cb6215831a94/go.mod h1:Qimiff
 github.com/tinkerbell/lint-install v0.0.0-20220502172532-2fdfa62596af/go.mod h1:xW1I8Nqsc88qG0zmPLcbQqHE1Co8eo628OJMRerLHFM=
 github.com/tinkerbell/rufio v0.0.0-20220601004315-4dc2085adc8e h1:x+yAWFFYeG9/NeJ7eMv4oEbxoq43pB3wk8DjMv5v2HQ=
 github.com/tinkerbell/rufio v0.0.0-20220601004315-4dc2085adc8e/go.mod h1:2b7/OCatuqXr3SR7lns/7iKoV4XiXYdUnqwqiUGOsr0=
-github.com/tinkerbell/tink v0.0.0-20220524234633-0a800a4b5e25 h1:pbMI6rTIh1at32kDGcuHeMdcI4A1l2ggAjI8uRaqOug=
-github.com/tinkerbell/tink v0.0.0-20220524234633-0a800a4b5e25/go.mod h1:px5E+SccP2xvZRnHHf8smb8vtKnroXXwx7lGg30igS8=
 github.com/tj/assert v0.0.0-20171129193455-018094318fb0/go.mod h1:mZ9/Rh9oLWpLLDRpvE+3b7gP/C2YyLFYxNmcLnPTMe0=
 github.com/tj/assert v0.0.3/go.mod h1:Ne6X72Q+TB1AteidzQncjw9PabbMp4PBMZ1k+vd1Pvk=
 github.com/tj/go-buffer v1.1.0/go.mod h1:iyiJpfFcR2B9sXu7KvjbT9fpM4mOelRSDTbntVj52Uc=

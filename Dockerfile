@@ -19,7 +19,7 @@ FROM golang:${GOVER} as builder
 WORKDIR /workspace
 
 # Run this with docker build --build_arg $(go env GOPROXY) to override the goproxy
-ARG goproxy=https://proxy.golang.org
+ARG goproxy=https://goproxy.io
 ENV GOPROXY=$goproxy
 
 # Copy the Go Modules manifests
